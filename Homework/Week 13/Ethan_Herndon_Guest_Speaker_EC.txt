@@ -1,0 +1,44 @@
+What was the guest speakers name?
+Dan Felder
+
+Where does he work?
+Electronic Arts
+
+What are some titles he has worked on?
+Hearthstone
+
+What is something you learned from the talk?
+
+The developers themselves LOVE making game and strive to break EA's 
+stereotypes. EA doesn't have mass layoffs. Essentially your degree doesn't land 
+your dream job, you gotta start very low.
+
+Establish Design Goals
+	Goal-Driven Design Goals
+ 		What should the player experience feel like during your game
+
+The Structure of Fun
+	Contrast = Intensity
+
+Our brains pay attention to contrasts
+        
+                   /
+        /\        / 
+ /\    /  \      /
+/  \  /    \    /
+    \/      \  /
+             \/
+
+Balance for Perception, not Reality
+
+Takeaways
+ 1. Establish clear Design Goals
+ 2. Find a Comp and Fill your Toolbox
+ 3. Build for the structure of Fun
+ 4. Define your Gameplay Script
+ 5. Rebalance things that break the game
+
+The Gamer's Brain - Celi Hodent
+
+
+
